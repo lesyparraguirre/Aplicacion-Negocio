@@ -1,0 +1,9 @@
+C:\Users\Les\Desktop\Aplicacion-Negocio\bin\Debug\NegocioFormsApp.exe.config
+C:\Users\Les\Desktop\Aplicacion-Negocio\bin\Debug\NegocioFormsApp.exe
+C:\Users\Les\Desktop\Aplicacion-Negocio\bin\Debug\NegocioFormsApp.pdb
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.csproj.AssemblyReference.cache
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.Properties.Resources.resources
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.csproj.GenerateResource.cache
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.exe
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.pdb
