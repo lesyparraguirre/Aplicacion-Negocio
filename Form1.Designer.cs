@@ -28,13 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(521, 131);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.Size = new System.Drawing.Size(288, 200);
+            this.dataGridView2.TabIndex = 0;
+            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
+            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(993, 509);
+            this.Controls.Add(this.dataGridView2);
+            this.Name = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView2;
     }
 }
 

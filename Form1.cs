@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Negocio;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,16 @@ namespace NegocioFormsApp
         public Form1()
         {
             InitializeComponent();
+
+            ProductoNegocio negocio = new ProductoNegocio();
+            var lista = negocio.ListarProductos();
+
+            dataGridView2.DataSource = lista;
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

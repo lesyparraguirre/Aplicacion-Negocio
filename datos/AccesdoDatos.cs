@@ -1,5 +1,4 @@
-﻿using System;
-using System.Data;
+﻿using System.Data;
 using System.Data.SqlClient;
 
 namespace Datos
@@ -11,6 +10,7 @@ namespace Datos
         private SqlDataReader lector;
 
         public SqlDataReader Lector => lector;
+        public SqlConnection Conexion => conexion;   // 👈 importante
 
         public AccesoDatos()
         {

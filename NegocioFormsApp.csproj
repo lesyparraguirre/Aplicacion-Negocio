@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +78,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="dominio\dominio.csproj">
+      <Project>{042d7b25-d7d7-4b14-a355-dc76cf8d9f52}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="negocio\negocio.csproj">
+      <Project>{180631e7-f6f3-45de-8977-5a88e0715378}</Project>
+      <Name>negocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
