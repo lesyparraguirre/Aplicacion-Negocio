@@ -7,3 +7,4 @@ C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.csproj.Generat
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.exe
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.pdb
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.exe.config
