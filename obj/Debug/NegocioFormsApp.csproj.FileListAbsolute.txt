@@ -16,3 +16,4 @@ C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioF.B668E06A.Up2Date
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.exe
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.pdb
 C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.exe.config
+C:\Users\Les\Desktop\Aplicacion-Negocio\obj\Debug\NegocioFormsApp.Login.resources
